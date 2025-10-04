@@ -1,7 +1,7 @@
 ########################################
 # Environment setting
 ########################################
-region           = "ap-northeast-1"
+region           = "us-east-1"
 role_name        = "Admin"
 profile_name     = "aws-demo"
 env              = "prod"
