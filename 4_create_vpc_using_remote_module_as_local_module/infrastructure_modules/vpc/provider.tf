@@ -1,3 +1,3 @@
 provider "aws" {
-  alias = "XXX_old"
+  alias = "us-east-1"
 }
